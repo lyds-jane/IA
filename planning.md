@@ -11,6 +11,8 @@ Since I will be creating a website, I will use a combination of HTML, CSS, and J
 
 Success Criteria
 --
+Since the client has no previous experience with website development; I decided to create two sets of success criteria. I created the main one for the client, that was more focused on user-based needs, and did not go in-depth into the computer science 
+
 After discussing the product with the client over the phone, I developped the following success criteria: 
 
 * The main site is public and accessible and will have the following pages:
