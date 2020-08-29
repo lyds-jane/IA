@@ -67,7 +67,7 @@ There are two types of lists in HTML:
 * Unordered list
 
 On this site, an ordered list is used in the sidebar:
-```.CSS
+```.HTML
 <ol>
     <li>
         Unit Name
@@ -126,6 +126,26 @@ To make a responsive webpage, it's important to keep in mind the size of the scr
 ```
 
 **Form**
+
+HTML forms are made in the following way:
+
+```.HTML
+<form>
+    <label for="short_text">Short Text:</label><br>
+    <input type="text" id="short_text" name="short_text"><br><br>
+    <label for="long_text">Long Text:</label><br>
+    <textarea id="long_text" name="long_text" style="min-height:150px; max-height:150px; min-width:1000px; max-width:1000px; overflow:scroll;"></textarea><br>
+    <label for="options">Options:</label><br>
+    <input type="checkbox" id="options" name="options">One<br>
+    <input type="checkbox" id="options" name="options">Two<br>
+    <input type="checkbox" id="options" name="options">Three<br>
+    <input type="submit">
+</form>
+```
+
+And look like this:
+
+![form](images/IAform.png)
 
 **Keyframe Animation**
 
