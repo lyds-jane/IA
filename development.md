@@ -6,7 +6,7 @@ The `div` element is a block-level element in HTML. For this project, it is used
 **Box Model:**
 The box model demonstrates the various parts of an element in CSS. It is shown in the picture below.
 
-![images/IAboxmodel.png]
+[!images/IAboxmodel.png]
 
 By controlling the padding, border, and margin, the space around the content of the box can be changed.
 
