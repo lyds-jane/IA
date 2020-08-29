@@ -7,6 +7,7 @@ The `div` element is a block-level element in HTML. For this project, it is used
 The box model demonstrates the various parts of an element in CSS. It is shown in the picture below.
 
 ![boxmodel](images/IAboxmodel.png)
+[[1](#Sources)]
 
 By controlling the padding, border, and margin, the space around the content of the box can be changed.
 
@@ -43,7 +44,8 @@ Within the columns, there are sections of text:
 ```
 
 **Sticky Positioning**
-There are many types of positioning: static, relative, fixed, and absolute. In 2016, sticky positioning was introduced. This means that when an element is scrolled past, it "sticks" to a specific part of the screen. The navigation bar on this site uses sticky positioning:
+There are many types of positioning: static, relative, fixed, and absolute. In 2016, sticky positioning was introduced. [[2](#Sources)] This means that when an element is scrolled past, it "sticks" to a specific part of the screen. The navigation bar on this site uses sticky positioning:
+
 ```.CSS
 .nav_bar{
   overflow: hidden;
@@ -129,3 +131,8 @@ To make a responsive webpage, it's important to keep in mind the size of the scr
 
 **Hover**
 
+
+Sources
+-
+1. CSS Box Model. (n.d.). Retrieved August, 2020, from https://www.w3schools.com/css/css_boxmodel.asp
+2. Shechter, E. (2020, March 04). CSS Position Sticky - How It Really Works! Retrieved August 29, 2020, from https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46 
