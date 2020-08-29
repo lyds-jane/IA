@@ -149,8 +149,27 @@ And look like this:
 
 **Keyframe Animation**
 
+Keyframe animation is how Javascript creates animations on websites. The keyframe animation used in this site for the heading animation, with the code below:
+
+```.CSS
+.header{
+  animation-name: colours;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes colours {
+  0% {border: 10px black solid;}
+  25% {border: 10px white solid;}
+  50% {border: 10px #F1EB27 solid;}
+  75% {border: 10px #C52529 solid;}
+  100% {border: 10px black solid;}
+}
+```
+
 **Hover**
 
+To change an element when the cursor is hovered over it, the CSS reference looks like this: `.class_name: hover{`
 
 Sources
 -
