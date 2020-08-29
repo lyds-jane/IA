@@ -169,7 +169,7 @@ Keyframe animation is how Javascript creates animations on websites. The keyfram
 
 **Hover**
 
-To change an element when the cursor is hovered over it, the CSS reference looks like this: `.class_name: hover{`
+To change an element when the cursor is hovered over it, the CSS reference looks like this: `.class_name: hover`
 
 Sources
 -
