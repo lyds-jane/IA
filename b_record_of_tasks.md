@@ -10,3 +10,4 @@
 |8|Create test plan|Uploaded to repo|20 minutes|29<sup>th</sup> August|B|
 |9|Create system diagram|Uploaded to repo|20 minutes|29<sup>th</sup> August|B|
 |10|Update development writeup|Uploaded to repo|1 hour|29<sup>th</sup> August|C|
+|11|Prep computer for creation of database|Install Apache and php|1 hour|30<sup>th</sup> September|C|
