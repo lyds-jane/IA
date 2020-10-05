@@ -11,3 +11,6 @@
 |9|Create system diagram|Uploaded to repo|20 minutes|29<sup>th</sup> August|B|
 |10|Update development writeup|Uploaded to repo|1 hour|29<sup>th</sup> August|C|
 |11|Prep computer for creation of database|Install Apache and php|1 hour|30<sup>th</sup> September|C|
+|12|Setup user database|Have example user inputed|30 minutes|5<sup>th</sup> October|C|
+|13|Create server|Setup computer as local server|10 minutes|5<sup>th</sup> October|C|
+|14|Update site|Make navigation bar functioning|20 minutes|5<sup>th</sup> October|C|
