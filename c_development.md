@@ -171,6 +171,14 @@ Keyframe animation is how Javascript creates animations on websites. The keyfram
 
 To change an element when the cursor is hovered over it, the CSS reference looks like this: `.class_name: hover`
 
+**Servers**
+
+Servers host all of the databases and coding files required to run a website. As previously stated, this project will begin on a local server. Then, depending on the client's needs, it will move to a commercial server. To add this site to our local server, we used WebStorm's SQL software.
+
+**Databases**
+Databases are a series of rows and columns with users and data that help programs store information in an efficient and organized manner. For this project, we will use Databases to store information about the users, but also the lesson content and completion. I will also use WebStorm's SQL software for the databases.
+
+
 Sources
 -
 1. CSS Box Model. (n.d.). Retrieved August, 2020, from https://www.w3schools.com/css/css_boxmodel.asp
