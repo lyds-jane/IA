@@ -31,6 +31,6 @@ After discussing the product with the client over the phone, I developped the fo
     * The ability to edit or delete lessons and units
     * The ability to add new units
     * The ability to add new lessons that:
-      * Contain a title, a brief description, and text
+      * Contain a title and text
       * Can include photos and videos
       * Can include links
